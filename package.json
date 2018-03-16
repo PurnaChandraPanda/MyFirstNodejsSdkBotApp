@@ -1,0 +1,16 @@
+{
+  "name": "myfirstnodejssdkapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Purna Chandra Panda",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.14.0",
+    "botbuilder-azure": "^3.0.4",
+    "restify": "^6.3.4"
+  }
+}
