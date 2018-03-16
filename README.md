@@ -1,7 +1,7 @@
 # MyFirstNodejsSdkBotApp
 This is my first Node.js SDK BOT application source code, and be integrated with Azure platform later.
 
-Ensure to update the following on your "App Service" with following "Applciation settings" (at portal level):
+Ensure to update the following on your "App Service" with following "Application settings" (at portal level):
 <ol>
 <li>BotId</li>
 <li>MicrosoftAppId</li>
